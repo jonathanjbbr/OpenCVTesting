@@ -80,5 +80,5 @@ def martianify(original_image_path):
         cv2.waitKey()
 
 
-martianify('imgdata/me.jpg')
+martianify('imgdata/fam.jpg')
 
